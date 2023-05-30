@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="white">#FFFFFF</color> <!--纯白色-->
+    <color name="black">#000000</color> <!--纯黑色-->
+    <color name="gray">#808080</color> <!--灰色-->
+    <color name="red">#FF0000</color> <!--红色-->
+    <color name="green">#00FF00</color> <!--绿色-->
+    <color name="blue">#0000FF</color> <!--蓝色-->
+    <color name="yellow">#FFFF00</color> <!--黄色-->
+    <color name="orange">#FFA500</color> <!--橙色-->
+    <color name="purple">#800080</color> <!--紫色-->
+    <color name="pink">#FFC0CB</color> <!--粉色-->
+    <color name="cyan">#00FFFF</color> <!--青色-->
+    <color name="magenta">#FF00FF</color> <!--洋红色-->
+    <color name="lime">#00FF00</color> <!--酸橙色-->
+    <color name="teal">#008080</color> <!--青绿色-->
+    <color name="indigo">#4B0082</color> <!--靛蓝色-->
+    <color name="brown">#A52A2A</color> <!--棕色-->
+    <color name="lightGray">#D3D3D3</color> <!--浅灰色-->
+    <color name="darkGray">#A9A9A9</color> <!--深灰色-->
+    <color name="silver">#C0C0C0</color> <!--银色-->
+    <color name="turquoise">#40E0D0</color> <!--绿松石色-->
+    <color name="gold">#FFD700</color> <!--金色-->
+    <color name="chocolate">#D2691E</color> <!--巧克力色-->
+    <color name="coral">#FF7F50</color> <!--珊瑚色-->
+    <color name="crimson">#DC143C</color> <!--深红色-->
+    <color name="lavender">#E6E6FA</color> <!--薰衣草色-->
+    <color name="orchid">#DA70D6</color> <!--兰花紫色-->
+    <color name="peru">#CD853F</color> <!--秘鲁色-->
+    <color name="plum">#DDA0DD</color> <!--李子色-->
+    <color name="salmon">#FA8072</color> <!--鲑鱼色-->
+
+</resources>
