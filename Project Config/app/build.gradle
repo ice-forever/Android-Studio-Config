@@ -2,7 +2,6 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
 }
-
 android {
     namespace 'com.example.learnapplication'
     compileSdk 33
@@ -49,7 +48,6 @@ android {
 }
 
 dependencies {
-
     implementation 'androidx.core:core-ktx:1.10.0'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.6.1'
     implementation 'androidx.activity:activity-compose:1.7.1'
